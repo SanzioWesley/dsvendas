@@ -13,7 +13,6 @@ const DonutChart = () => {
         }
     }
 
-
     return (
         <Chart
             options={{ ...options, labels: mockData.labels }}
